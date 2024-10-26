@@ -7,7 +7,6 @@ from ctypes import *
 
 import time
 
-# FSR = 20
 
 # class MCPSEND(Structure):
 #     _pack_ = 1   #让结构体内存连续
